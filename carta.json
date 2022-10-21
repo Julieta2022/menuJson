@@ -1,0 +1,16 @@
+{
+    "carta":[
+                  {   "id":1,
+                      "nombre":"BIFE DE LOMO COMPLETO",
+                      "descripcion":"Bife de lomo acompañado de panceta, papas fritas y huevo frito",
+                      "imagen":"https://scontent.fsla2-1.fna.fbcdn.net/v/t39.30808-6/297650737_5817647154999159_4024327390863391316_n.jpg?stp=c52.0.206.206a_dst-jpg_p206x206&_nc_cat=108&ccb=1-7&_nc_sid=da31f3&_nc_eui2=AeFevajmHzkbNKmU1DyyfMlTR-SCJahoIG9H5IIlqGggb2KOdsCKxKudkDkb-tmj0uY&_nc_ohc=ax75PlHZn24AX8Z7A7e&_nc_ht=scontent.fsla2-1.fna&oh=00_AT-ObfG8Gwb-uwdbzylJAvupe5hpaAMpa7R6OjwQT3y1rQ&oe=63574DE3",
+                      "precio":2.100                       
+                  },
+                  {   "id":2,
+                      "nombre":"TRUCHÓN",
+                      "descripcion":"Trucha acompañada con salsa de limón y almendras sobre papas panaderas",
+                      "imagen":"https://scontent.fsla2-1.fna.fbcdn.net/v/t1.6435-9/157222488_4263376527092904_8961952644393150359_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a26aad&_nc_eui2=AeF658-p28vWlu6M-WBnitlDBNkWXsjvB6wE2RZeyO8HrNHT1LxA0uypFtPDE92mgNc&_nc_ohc=8eiREdTKYSQAX_U4Kym&_nc_ht=scontent.fsla2-1.fna&oh=00_AT9SQbd3LFXJF2aV1IVwOTgTFulXUPbhDZcepyUNy4wu3Q&oe=637883F3",
+                      "precio":1.700                       
+                  }
+            ]
+}
